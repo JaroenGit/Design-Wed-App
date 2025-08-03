@@ -12,7 +12,7 @@
 ~~~
 Ecomart Website Design | E-commerce UX Case Study
 ดูตัวอย่างการออกแบบ UX/UI และวิธีจัดวางองค์ประกอบของเว็บอีคอมเมิร์ซ
-https://manjuruldesign.medium.com/ecomart-website-design-e-commerce-web-design-ui-ux-case-study-7f0a157ad9b6
+> 🔗 [Ecomart Website Design | E-commerce UX Case Study](https://manjuruldesign.medium.com/ecomart-website-design-e-commerce-web-design-ui-ux-case-study-7f0a157ad9b6)
 ~~~
 
 🛠️ 3. ขั้นตอนการแปลง UX/UI → เว็บไซต์
@@ -28,3 +28,4 @@ https://manjuruldesign.medium.com/ecomart-website-design-e-commerce-web-design-u
  3.3 ออกแบบให้รองรับทุกขนาดหน้าจอ (Responsive Design)
      ใช้ Bootstrap Grid System เพื่อให้แสดงผลได้ทั้งบน คอมพิวเตอร์ (Desktop) และ มือถือ (Mobile) อย่างเหมาะสม
 ~~~
+
