@@ -30,7 +30,7 @@ https://manjuruldesign.medium.com/ecomart-website-design-e-commerce-web-design-u
 ~~~
 ✍️ ผู้พัฒนา
  ```
- ชื่อ-นามสุก: เจริญ ศักดิ์เจริญชัยกุล 
+ ชื่อ-นามสกุล: เจริญ ศักดิ์เจริญชัยกุล 
  อีเมล: jsaroen66@gmail.com
  GitHub: github.com/JaroenGit
  ```
