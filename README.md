@@ -48,7 +48,7 @@ Tools and Technologies
 
 ✍️ Developer
  ```
-Name: Jaroen Sakjaroenchai  
+Name: Jaroen Sakcharoenchaiyakul
 Email: jsaroen66@gmail.com  
 GitHub: github.com/JaroenGit 
  ```
