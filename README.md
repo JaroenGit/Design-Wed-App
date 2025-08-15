@@ -1,37 +1,55 @@
 # Design-Wed-App
-ตัวอย่างการแปลง UX/UI จากงานออกแบบ ไปสู่เว็บไซต์จริง (HTML/CSS/Bootstrap)
+Applying the Process of Converting UX/UI Designs into a Functional Website using HTML, CSS, and Bootstrap
 
-✅ 1. เครื่องมือที่ใช้
+✅ 1. Introduction
 ~~~
-- HTML สำหรับโครงสร้างเว็บไซต์
-- Bootstrap 5 สำหรับจัด layout และ responsive design
-- CSS (เพิ่มเติมถ้าจำเป็น) สำหรับการปรับแต่ง
-~~~
-
-📚 2. ตัวอย่างอ้างอิง:
-~~~
-Ecomart Website Design | E-commerce UX Case Study
-ดูตัวอย่างการออกแบบ UX/UI และวิธีจัดวางองค์ประกอบของเว็บอีคอมเมิร์ซ
-https://manjuruldesign.medium.com/ecomart-website-design-e-commerce-web-design-ui-ux-case-study-7f0a157ad9b6
+In the present era, User Experience (UX) design and User Interface (UI) design play a significant role in website
+and application development. High-quality UX/UI design improves usability and enhances user satisfaction. However,
+transforming such designs into an actual functional website requires appropriate processes and technologies.
+This study focuses on applying UX/UI designs to develop a functional website using HTML, CSS, and Bootstrap.
+The goal is to create a system that supports multiple screen sizes (Responsive Design) while maintaining the structure
+and style consistent with the original design.
 ~~~
 
-🛠️ 3. ขั้นตอนการแปลง UX/UI → เว็บไซต์
+📚 2. Objectives
 ~~~
- 3.1 วิเคราะห์องค์ประกอบของ UI จากงานออกแบบ
-     ทำความเข้าใจ layout, sections และโฟลว์ของผู้ใช้งาน จากหน้า UX/UI ที่ออกแบบไว้
- 3.2 ระบุหน้าหลักที่ต้องพัฒนา
-     ตัวอย่างหน้าที่ควรแปลงเป็น HTML:
-     ✅ หน้า Landing / Home – แนะนำสินค้า บริการ โปรโมชั่น
-     ✅ หน้า Category / Product Listing – แสดงสินค้าหลายรายการแบบ grid
-     ✅ หน้า Product Details – แสดงรายละเอียดสินค้า
-     ✅ หน้า Cart / Checkout – สรุปรายการสินค้า กรอกที่อยู่ และเลือกวิธีชำระเงิน
- 3.3 ออกแบบให้รองรับทุกขนาดหน้าจอ (Responsive Design)
-     ใช้ Bootstrap Grid System เพื่อให้แสดงผลได้ทั้งบน คอมพิวเตอร์ (Desktop) และ มือถือ (Mobile) อย่างเหมาะสม
+ 1)To study the process of converting UX/UI designs into a functional website.
+ 2)To develop a website using HTML, CSS, and Bootstrap based on the structure and style of the design.
+ 3)To design a website that supports responsive display across multiple devices.
+
+Tools and Technologies
+---------------------
+ - HTML (HyperText Markup Language): Used to define the content structure of the website.
+ - Bootstrap 5: Used to arrange layout components and enable responsive design.
+ - CSS (Cascading Style Sheets): Used for additional styling to match the UX/UI design.
+ - Reference:
+   Manjurul Design, Ecomart Website Design | E-commerce UX Case Study, [Online]. Available at: https://manjuruldesign.medium.com/ecomart-website-design-e-commerce-web-    design-ui-ux-case-study-7f0a157ad9b6
 ~~~
-✍️ ผู้พัฒนา
+
+🛠️ 3. Methodology
+~~~
+ 1) UI Component Analysis
+    Analyze layout, sections, and user flow from the UX/UI design to determine the website structure.
+ 2) Identify Main Pages for Development
+     The website is divided into main pages as follows:
+     - Landing / Home Page: Showcasing products, services, and promotions.
+     - Category / Product Listing Page: Displaying product lists in a grid format.
+     - Product Details Page: Showing detailed product information.
+     - Cart / Checkout Page: Summarizing products, providing input fields for shipping details, and payment options.
+ 3) Responsive Design Implementation
+     Utilize the Bootstrap Grid System to adjust layouts automatically according to different devices such as desktops, tablets, and mobile phones.
+~~~
+✅ 4. Conclusion and Recommendations
+```
+    Developing a website from a UX/UI design using HTML, CSS, and Bootstrap allows for the creation of visually appealing,
+    user-friendly websites that effectivelysupport multiple screen sizes. For future improvements, adding backend functionality
+    and database integration is recommended to enhance interactive capabilities and overall system completeness.
  ```
- ชื่อ-นามสกุล: เจริญ ศักดิ์เจริญชัยกุล 
- อีเมล: jsaroen66@gmail.com
- GitHub: github.com/JaroenGit
+
+✍️ Developer
+ ```
+Name: Jaroen Sakjaroenchai  
+Email: jsaroen66@gmail.com  
+GitHub: github.com/JaroenGit 
  ```
 
